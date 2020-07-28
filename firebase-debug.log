@@ -1,0 +1,21 @@
+[debug] [2020-07-28T07:51:17.920Z] ----------------------------------------------------------------------
+[debug] [2020-07-28T07:51:17.937Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Dell\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-07-28T07:51:17.939Z] CLI Version:   8.1.1
+[debug] [2020-07-28T07:51:17.940Z] Platform:      win32
+[debug] [2020-07-28T07:51:17.941Z] Node Version:  v12.16.2
+[debug] [2020-07-28T07:51:17.949Z] Time:          Tue Jul 28 2020 12:51:17 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-07-28T07:51:17.950Z] ----------------------------------------------------------------------
+[debug] [2020-07-28T07:51:17.951Z] 
+[debug] [2020-07-28T07:51:18.020Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-07-28T07:51:18.024Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Dell\Desktop\Hotel-master
+
